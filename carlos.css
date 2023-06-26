@@ -1,0 +1,39 @@
+h1{
+    background-color: #34a094;
+    text-align: center;
+    font-size: 80px;
+    margin: 0%;
+    margin-block-start: 0%;
+}
+#textoPrincipal{
+    background-color: #34a094;
+    font-size: 50px;
+}
+#fundoVermelhoNegrito{
+    background-color: red;
+    font-size: 75px;
+    font-weight: bold;
+}
+#fundoVermelho{
+    background-color: red;
+    font-size: 100px;   
+}
+img{
+    border-radius: 100%;
+    width: 100%;
+    height: 700px;
+
+}
+#bloco1{
+    text-align: center;
+}
+#bloco2{
+    text-align: center;
+}
+body{
+    background-color: #000;
+}
+#bloco4{
+    font-size: 40px;
+    text-align: center;
+}
